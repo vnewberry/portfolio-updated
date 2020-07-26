@@ -1332,9 +1332,8 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	}
 }
 
-
-
-
-
-
-
+.portfolio-img{
+	height: 278px;
+	width: 278px;
+	object-fit: contain;
+}
